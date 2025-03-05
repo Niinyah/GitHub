@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Version 5");
         System.out.println("seirjsor");
         System.out.println("Philip har tilføjet");
-        System.out.println("Vælg min linje og print!");
+        System.out.println("Peter har tilføjet");
 
     }
 }
