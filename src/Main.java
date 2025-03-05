@@ -1,3 +1,5 @@
+import java.sql.SQLOutput;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello Githubbers");
@@ -5,6 +7,7 @@ public class Main {
         System.out.println("seirjsor");
         System.out.println("Philip har tilføjet");
         System.out.println("Peter har tilføjet");
+        System.out.println("Det her er den rigtige linje");
 
     }
 }
